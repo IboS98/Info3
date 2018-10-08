@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hallo test 
 Hi
+=======
+Hallo test.....
+https://github.com/gabelmar/Info3/invitations
+>>>>>>> e7fc2b4310f55f245338c51f15e98e41e7e745c0
